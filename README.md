@@ -1,11 +1,3 @@
-Bhavesh Bhatt
-================
-Mumbai, India
-
-bhattbhavesh91@gmail.com
-
-github.com/bhattbhavesh91 - twitter.com/bhattbhavesh91 - medium.com/@bhattbhavesh91
-
 Selected Projects and Outcomes
 ==============================
 
