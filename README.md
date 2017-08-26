@@ -2,6 +2,7 @@ Selected Projects and Outcomes
 ==============================
 **Classification of Haptik user queries into right Business Verticals using NLP and ML techniques**
 **https://github.com/bhattbhavesh91/haptik_text_classification**
+
 In this project the aim was to detect the user intent and classify the user chat into the following categories -
 food,recharge,support,reminders,travel,nearby,movies,casual and other.
 
