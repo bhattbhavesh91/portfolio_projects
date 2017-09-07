@@ -1,6 +1,5 @@
 Selected Projects and Outcomes
 ==============================
-___
 ## Subreddit Recommender System for Reddit users
 
 [Link to Subreddit Recommendor Project](https://github.com/bhattbhavesh91/Subreddit_Recommendation_SVD)
@@ -10,7 +9,6 @@ The hypothesis of the recommender model is, given an ordered sequence of user su
 
 - Implemented the recommendor system using the SVD algorithm. 
 - Verified the accuracy of the model by removing a subreddit from the user history and checking if the recommdation system did output the removed subreddit as a recommendation.
-___
 ## Classification of Haptik user queries into right Business Verticals using NLP and ML techniques
 
 [Link to Haptik NLP Project](https://github.com/bhattbhavesh91/haptik_text_classification)
@@ -23,7 +21,6 @@ Thus it was a Multiclass and multilabel problem.
 
 - Implemented a multi-label classifier using the training data. The classifier tagged all the possible domains (food, support etc) for each query using Decision Tree, Logistic Regression and Random forest algorithms.
 - Achieved a label accuracy of 94% and subset accuracy of 74%
-___
 ## Predicting survival of passengers on the Titanic dataset
 
 [Link to Titanic Project](https://github.com/bhattbhavesh91/titanic_dt_randomforest)
@@ -33,8 +30,7 @@ The goal of this project was to get acquainted with said tools, learn about the 
 
 - I used Decision tree & Random forest algorithms to predict the percentage of passengers who survived.
 - I am currently at 1829th rank for the given competition on Kaggle with an accuracy score of 79.42%.
-___
-## Predicting Boston Housing Prices using Linear Regression**
+## Predicting Boston Housing Prices using Linear Regression
 
 [Link to Boston House Price Prediction Project](https://github.com/bhattbhavesh91/boston_housing_prediction)
 
